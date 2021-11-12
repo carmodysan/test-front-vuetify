@@ -1,5 +1,6 @@
 <template>
   <v-container>
+    <v-btn :to="{name: 'About'}">About</v-btn>
     <v-row class="text-center">
       <v-col cols="12">
         <v-img
